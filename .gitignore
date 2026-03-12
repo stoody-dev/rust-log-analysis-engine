@@ -1,0 +1,4 @@
+/target
+logs/big.log
+*.log
+generate_logs.exe
